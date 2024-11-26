@@ -1,0 +1,2291 @@
+@media (min-width: 1400px) and (max-width: 1599.99px) {
+    .download .download_text {
+        padding-bottom: 0;
+    }
+}
+
+
+
+@media (min-width: 1200px) and (max-width: 1399.99px) {
+
+
+
+    .banner_serch form ul li .text {
+        width: 72%;
+    }
+
+    .banner_serch form button {
+        padding: 9px 29px;
+    }
+
+
+    .destination .destination_img {
+        height: 315px;
+    }
+
+    .ofer .ofer_item .img {
+        height: 330px;
+        margin-top: 45px;
+    }
+
+    .filter_item .img {
+        height: 180px;
+    }
+
+    .popular_flight_item_text {
+        padding: 25px 16px;
+    }
+
+    .flight_banner {
+        height: 440px;
+    }
+
+    .testimonial .nextArrow,
+    .testimonial .prevArrow {
+        left: -348px;
+    }
+
+    .testimonial .prevArrow {
+        left: -402px;
+    }
+
+    .blog .blog_item .blog_img {
+        height: 210px;
+    }
+
+    footer .footer_banner {
+        height: 505px;
+    }
+
+    /* about page start */
+
+    .breadcrumb_overlay {
+        padding: 160px 0px 75px 0px;
+    }
+
+    .breadcrumb_text h1 {
+        font-size: 40px;
+    }
+
+
+    .about_choose .about_choose_text {
+        padding-right: 20px;
+    }
+
+    .service_video_img .circle_box,
+    .about_video_text .circle_box {
+        top: 10px;
+    }
+
+    .about_video_text h1 {
+        font-size: 50px;
+    }
+
+    .team .single_team .img {
+        height: 455px;
+    }
+
+    .download .download_text h1,
+    .download .download_text h1 span {
+        font-size: 38px;
+        line-height: initial;
+    }
+
+    .download .download_text {
+        padding-bottom: 0;
+    }
+
+    /* about page end */
+
+    /* agent page start */
+    .agent_profile_text .info {
+        gap: 20px;
+    }
+
+    .agent_profile_text .info li {
+        width: 47%;
+    }
+
+    .blog_detels_banner_img {
+        height: 410px;
+    }
+
+    .blog_detels_banner_text {
+        padding: 45px 30px;
+    }
+
+    .blog_detels_banner_text h1 {
+        line-height: 40px;
+    }
+
+    .blog_sidebar ul li .text {
+        width: 62%;
+    }
+
+    .blog_detels_text .detels_small_img .img {
+        height: 235px;
+    }
+
+    .sidebar_contact {
+        height: 465px;
+    }
+
+
+    .service_earea .service_banner {
+        margin-top: 25px;
+        height: 505px;
+    }
+
+    .service_earea .service_item {
+        padding: 29px;
+    }
+
+    .service_text .sercice_img {
+        height: 365px;
+    }
+
+    .section_heading_2 h2 {
+        font-size: 30px;
+    }
+
+    .service_video h2 {
+        font-size: 85px;
+    }
+
+    .service_contact .service_contact_img {
+        height: 540px;
+    }
+
+    .service_contact_text {
+        padding-left: 50px;
+    }
+
+    .hotel_detels_slider_item {
+        height: 495px;
+    }
+
+    .about_detels_sidebar .nav-link {
+        padding: 15px 50px;
+    }
+
+    .about_detels_sidebar_author {
+        height: 390px;
+    }
+
+    .single_room_cart .img {
+        height: 180px;
+    }
+
+    .product_detels_main_img {
+        height: 420px;
+    }
+
+    .car_slider_small_img {
+        height: 80px;
+    }
+
+    .room_detels .about_detels_sidebar .nav-link {
+        padding: 15px 39px;
+    }
+
+
+    .package_details .about_detels_sidebar .nav-link {
+        padding: 15px 39px;
+    }
+
+    .room_detels .about_detels_sidebar .nav-link {
+        padding: 15px 39px;
+    }
+
+    .about_detels_sidebar_author {
+        height: 335px;
+    }
+
+    .package_details .sidebar_contact {
+        height: 400px;
+    }
+
+    .sidebar_countdown .simply-amount {
+        width: 70px;
+        height: 70px;
+        line-height: 70px;
+    }
+
+    .single_packages_item .img {
+        height: 430px;
+    }
+}
+
+
+
+@media (min-width: 992px) and (max-width: 1199.99px) {
+    .main_menu .navbar-nav .nav-item .nav-link {
+        font-size: 13px;
+        margin: 0px 10px;
+    }
+
+    .banner_text h1,
+    .banner_text h1 span {
+        max-width: 90% !important;
+        display: block;
+    }
+
+
+    .banner_serch .nav-pills {
+        gap: 15px;
+        padding: 20px 29px;
+        font-size: 20px;
+        margin-top: 10px;
+    }
+
+    .banner_serch form ul li {
+        width: 40%;
+    }
+
+    .banner_serch form ul {
+        align-items: center;
+        gap: 10px;
+        width: 100%;
+    }
+
+    .banner_serch .nav-pills .nav-link,
+    .banner_serch .nav-pills .show>.nav-link {
+        font-size: 16px;
+    }
+
+    .banner_serch form button {
+        padding: 10px 39px;
+    }
+
+    .banner_serch form button {
+        position: absolute;
+        right: 58px;
+    }
+
+    .banner_serch form {
+        padding: 20px;
+    }
+
+    .banner .banner_text {
+        margin-top: 30px;
+    }
+
+    .section_heading h2::after {
+        height: 38px;
+        top: -35px;
+        right: -20px;
+    }
+
+    .ofer .ofer_item .img {
+        height: 330px;
+    }
+
+    .ofer .ofer_item .text {
+        padding: 30px;
+    }
+
+    .ofer .ofer_item .text h3 {
+        width: 96%;
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .ofer .ofer_item {
+        margin-bottom: 20px;
+    }
+
+    .filter .nav-tabs {
+        padding: 6px 20px;
+        gap: 15px;
+        margin-left: 0;
+    }
+
+    .filter_item .img {
+        height: 230px;
+    }
+
+    .testimonial_item .description {
+        color: var(--paraColor);
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 30px;
+    }
+
+    .flight_banner {
+        height: 370px;
+    }
+
+    .popular_flight_item_text {
+        padding: 5px 10px;
+        max-width: 62%;
+    }
+
+    .counter_area li {
+        width: 25%;
+
+    }
+
+
+    .download_img {
+        width: 380px;
+        height: 500px;
+        margin-top: 10px;
+    }
+
+    .download_text .download_btn {
+        padding-bottom: 0;
+    }
+
+    .blog .blog_item .blog_img {
+        height: 270px;
+    }
+
+    .banner {
+        height: auto;
+        padding-bottom: 120px;
+    }
+
+
+    .banner .banner_text {
+        margin-top: 120px;
+    }
+
+    .testimonial .nextArrow,
+    .testimonial .prevArrow {
+        left: -303px;
+    }
+
+    .testimonial .prevArrow {
+        left: -353px;
+    }
+
+    .testimonial_content {
+        padding: 30px;
+    }
+
+
+    .footer_link ul li a {
+        margin-top: 15px;
+    }
+
+    .footer_link {
+        padding-left: 25px;
+    }
+
+    .footer_logo {
+        padding-left: 25px;
+    }
+
+    .footer_logo ul {
+        gap: 8px;
+    }
+
+    footer .footer_banner {
+        height: 420px;
+        margin-top: -293px;
+    }
+
+    .footer_link ul li a {
+        margin-top: 20px;
+        font-size: 14px;
+    }
+
+    .footer_logo p {
+        font-size: 14px;
+    }
+
+    .popular_flight_btn_area {
+        margin-bottom: 15px;
+    }
+
+    /* about page start */
+
+    .breadcrumb_overlay {
+        padding: 160px 0px 75px 0px;
+    }
+
+    .breadcrumb_text h1 {
+        font-size: 40px;
+    }
+
+    .about_choose .about_choose_text h2 {
+        font-size: 38px;
+    }
+
+    .about_choose .about_choose_text {
+        padding-right: 20px;
+    }
+
+    .about_choose .about_choose_text ul li .text {
+        width: 74%;
+    }
+
+    .about_choose .about_choose_text ul li .icon {
+        height: 80px;
+    }
+
+    .about_choose .about_choose_img {
+        height: 465px;
+    }
+
+    .ofer .ofer_item .img {
+        height: 320px;
+    }
+
+    .service_video_img .circle_box,
+    .about_video_text .circle_box {
+        top: 10px;
+    }
+
+    .about_video_text h1 {
+        font-size: 50px;
+    }
+
+
+    .team .single_team .img {
+        height: 375px;
+    }
+
+    .download .download_text h1,
+    .download .download_text h1 span {
+        font-size: 38px;
+        line-height: initial;
+    }
+
+    /* about page end */
+
+    /* agent page start */
+    .agent_profile_text {
+        margin-left: 0px;
+    }
+
+    .agent_profile_text h2 {
+        font-size: 25px;
+    }
+
+    .agent_profile_text p {
+        line-height: normal;
+        font-size: 13px;
+    }
+
+    .agent_profile_text .info {
+        gap: 20px 10px;
+    }
+
+    .agent_profile_text .info li {
+        width: 48%;
+    }
+
+    .agent_profile_img {
+        height: 430px;
+    }
+
+    .filter_item .img {
+        height: 150px;
+    }
+
+    .hotel_list_img {
+        height: 160px;
+    }
+
+    .hotel_list_text {
+        width: 50%;
+        padding: 20px 0px 20px 20px;
+    }
+
+    /* contact page start */
+    .contact_form form {
+        padding: 25px 320px 80px 50px;
+    }
+
+    .contact_img {
+        width: 280px;
+        height: 445px;
+    }
+
+    .contact_info {
+        padding: 30px;
+    }
+
+    .blog_detels_banner_text {
+        padding: 50px;
+    }
+
+    .blog_detels_banner_text h1 {
+        font-size: 30px;
+        line-height: normal;
+    }
+
+    .blog_detels_banner_img {
+        height: 340px;
+    }
+
+    .blog_sidebar ul li .text {
+        width: 52%;
+    }
+
+    .left_sidebar_wizard {
+        padding: 16px 5px 30px 15px;
+    }
+
+    .faq_page .section_heading_2 h2 {
+        max-width: 90%;
+    }
+
+    /* service page start  */
+    .service_text .sercice_img {
+        height: 305px;
+    }
+
+    .service_text .section_heading_2 h2 {
+        font-size: 25px;
+    }
+
+    .service_earea .service_item {
+        padding: 8px;
+    }
+
+    .service_earea .service_banner {
+        height: 420px;
+    }
+
+    .service_video h2 {
+        font-size: 68px;
+    }
+
+    .service_contact .service_contact_img {
+        height: 440px;
+        overflow: hidden;
+    }
+
+    .service_contact_text {
+        padding: 30px;
+    }
+
+    /* hotel deteils start  */
+    .hotel_detels_slider_item {
+        height: 415px;
+    }
+
+    .Hotel_Amenitie ul li {
+        width: 48%;
+    }
+
+    .about_detels_sidebar .nav-link {
+        padding: 15px 35px;
+    }
+
+    .about_detels_sidebar_author {
+        height: 325px;
+    }
+
+    .package_details .about_detels_sidebar .nav-link {
+        padding: 15px 35px;
+    }
+
+
+    .sidebar_contact {
+        height: 385px;
+    }
+
+    .package_details .about_detels_sidebar_author {
+        height: 335px;
+    }
+
+    .package_details .sidebar_contact {
+        height: 400px;
+    }
+
+    .product_detels_main_img {
+        height: 530px;
+    }
+
+    .car_slider_small_img {
+        height: 100px;
+    }
+
+    .about_detels_sidebar.pl_50.xs_pl_0 {
+        padding-left: 20px !important;
+    }
+
+    .about_detels_sidebar_book form ul li .text {
+        width: 70%;
+    }
+
+    .room_detels .about_detels_sidebar .nav-link {
+        padding: 12px 31px;
+    }
+
+    .sidebar_countdown .simply-amount {
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+    }
+
+    .sidebar_countdown .simply-word {
+        font-size: 13px;
+    }
+
+    .details_snapshot .text {
+        width: 73%;
+    }
+
+    .single_packages_item .img {
+        height: 360px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 991.99px) {
+    .main_menu .container {
+        padding: 20px 0px;
+    }
+
+    .main_menu .navbar-nav {
+        line-height: 45px;
+        background: var(--colorWhite);
+        border-top: 1px solid #ddd;
+        margin-top: 19px;
+        padding-top: 10px;
+    }
+
+    .main_menu .right_menu {
+        background: var(--colorWhite);
+        padding-bottom: 20px;
+        padding-left: 19px;
+        border-top: 1px solid #ddd;
+        margin-top: -1px;
+        padding-top: 15px;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .main_menu .submenu {
+        left: 19px;
+        max-height: 250px;
+    }
+
+    .main_menu .navbar-brand {
+        margin: 0 19px;
+    }
+
+    .banner .banner_text span,
+    .banner .banner_text h1 {
+        font-size: 82px;
+        max-width: 100%;
+        line-height: 100px;
+        margin-bottom: 50px;
+        display: block;
+    }
+
+    .banner .banner_text span,
+    .banner .banner_text span b {
+        font-size: 82px;
+    }
+
+    .banner_serch .nav-pills {
+        gap: 15px;
+        padding: 20px 29px;
+        font-size: 20px;
+        margin-top: 10px;
+    }
+
+    .banner_serch form ul li {
+        width: 48%;
+    }
+
+    .banner_serch form ul {
+        align-items: center;
+        gap: 10px;
+        width: 100%;
+    }
+
+    .banner_serch form button {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .banner_serch form button i {
+        display: inline-block;
+        margin-top: 0;
+        margin-right: 10px;
+        width: initial;
+    }
+
+    .banner_serch form {
+        padding: 20px;
+    }
+
+    .banner .banner_text {
+        margin-top: 30px;
+    }
+
+    .section_heading h2,
+    .section_heading h2 span {
+        font-size: 30px;
+    }
+
+    .section_heading h2::after {
+        height: 38px;
+        top: -35px;
+        right: -20px;
+    }
+
+    .ofer .ofer_item .img {
+        height: 320px;
+    }
+
+    .ofer .ofer_item .text {
+        padding: 30px;
+    }
+
+    .ofer .ofer_item .text h3 {
+        width: 96%;
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .ofer .ofer_item {
+        margin-bottom: 20px;
+    }
+
+    .filter .nav-tabs {
+        padding: 6px 20px;
+        gap: 15px;
+        margin-left: 0;
+    }
+
+    .filter_item .img {
+        height: 170px;
+    }
+
+    .hotel_list_pasination {
+        margin-bottom: 60px;
+    }
+
+
+    .nice-select .option {
+        width: 154px;
+    }
+
+    .left_sidebar_wizard .form-check label {
+        font-size: 14px;
+    }
+
+    .testimonial_item .description {
+        color: var(--paraColor);
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 30px;
+    }
+
+    .section_heading h2,
+    .section_heading h2 span {
+        margin-bottom: 30px;
+        font-size: 30px;
+    }
+
+    .flight_banner {
+        height: 510px;
+        margin-bottom: 25px;
+    }
+
+    .popular_flight_item_text .title {
+        font-size: 16px;
+    }
+
+    .popular_flight_item {
+        margin-left: 14px;
+    }
+
+    .popular_flight_item_text {
+        padding: 25px 16px;
+    }
+
+    .counter_area li {
+        width: 50%;
+        padding: 20px;
+        border-bottom: 1px solid rgba(4, 6, 24, 0.14);
+    }
+
+    .download .download_text {
+        margin-top: 45px;
+        padding-top: 0;
+    }
+
+    .download .download_text h1,
+    .download .download_text h1 span {
+        font-size: 25px;
+        font-weight: 500;
+        line-height: 36px;
+    }
+
+    .download_img {
+        width: 290px;
+        height: auto;
+        margin-top: 20px;
+    }
+
+    .download_text .download_btn {
+        padding-bottom: 0;
+    }
+
+    .blog .blog_item .blog_img {
+        height: 195px;
+    }
+
+
+    .banner {
+        height: auto;
+        padding-bottom: 120px;
+    }
+
+
+    .banner .banner_text {
+        margin-top: 120px;
+    }
+
+
+    .testimonial_content {
+        padding: 30px;
+    }
+
+    .footer_contact .footer_contact_contant {
+        padding: 25px;
+    }
+
+    .footer_link ul li a {
+        margin-top: 15px;
+    }
+
+    .footer_link {
+        padding-left: 25px;
+    }
+
+    .footer_logo {
+        padding-left: 25px;
+    }
+
+    .footer_logo ul {
+        gap: 8px;
+    }
+
+    footer .footer_banner {
+        display: none;
+    }
+
+    /* home page end */
+
+
+    /* about page start */
+
+    .breadcrumb_overlay {
+        padding: 160px 0px 75px 0px;
+    }
+
+    .breadcrumb_text h1 {
+        font-size: 40px;
+    }
+
+    .about_choose .about_choose_text h2 {
+        font-size: 32px;
+    }
+
+    .about_choose .about_choose_text {
+        padding-right: 0;
+        margin-top: 0px !important;
+    }
+
+    .about_choose .about_choose_text ul li .text {
+        width: 81%;
+    }
+
+    .about_choose .about_choose_img {
+        height: 705px;
+        margin: 40px 0px;
+    }
+
+    .ofer .ofer_item .img {
+        height: 320px;
+    }
+
+    .service_video_img .circle_box,
+    .about_video_text .circle_box {
+        top: -25px;
+        right: 30px;
+    }
+
+    .about_video_text h1 {
+        font-size: 32px;
+        max-width: 55%;
+    }
+
+
+
+    .about_video_text::after {
+        display: none;
+    }
+
+    .section_heading_2 h2 {
+        font-size: 38px;
+    }
+
+    .team .single_team .img {
+        height: 425px;
+    }
+
+
+
+    /* about page end */
+
+    /* agent start */
+
+    .agent_profile_text {
+        margin-left: 15px;
+    }
+
+    .agent_profile_text p {
+        line-height: normal;
+    }
+
+    .agent_profile_text .text {
+        width: 50%;
+    }
+
+    .agent_profile_text .info {
+        gap: 15px;
+    }
+
+    .agent_btn {
+        margin-bottom: 100px;
+    }
+
+    p,
+    span {
+        font-size: 13px;
+    }
+
+    .review_area_btn {
+        padding-top: 30px;
+    }
+
+    /* agent end */
+    .hotel_list_img {
+        height: 210px;
+    }
+
+    /* contact page start */
+    .contact_form form {
+        padding: 30px;
+    }
+
+    .contact_img {
+        display: none;
+    }
+
+    .contact_info h3 {
+        font-size: 18px;
+    }
+
+    .blog_detels_banner_text {
+        padding: 30px;
+    }
+
+    .blog_detels_banner_text h1 {
+        font-size: 26px;
+        line-height: normal;
+    }
+
+    .blog_detels_banner_img {
+        height: 250px;
+    }
+
+    .blog_detels_text .detels_small_img .img {
+        height: 150px;
+    }
+
+    .sidebar_contact {
+        height: 900px;
+    }
+
+    .blog_sidebar ul li .text {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .blog_sidebar ul li .img {
+        height: 100px;
+        width: 90px;
+    }
+
+    .sidebar_contact {
+        height: 280px;
+    }
+
+    .blog_detels_text h2 {
+        font-size: 28px;
+    }
+
+    .blog_detels_text h1,
+    .blog_detels_text h2,
+    .blog_detels_text h3,
+    .blog_detels_text h4,
+    .blog_detels_text h3,
+    .blog_detels_text h5,
+    .blog_detels_text h6 {
+        max-width: 100%;
+        margin-top: 20px;
+    }
+
+    .blog_detels_text .quot {
+        font-size: 13px;
+        line-height: normal;
+        margin: 0;
+    }
+
+    .next_pev_button li.next {
+        text-align: right;
+        width: 50%;
+    }
+
+    li.pev {
+        width: 50%;
+    }
+
+    .left_sidebar_wizard {
+        padding: 16px 10px 30px 10px;
+    }
+
+    .faq_page .section_heading_2 h2 {
+        max-width: 100%;
+    }
+
+    .service_earea .service_banner {
+        display: none;
+    }
+
+    .service_contact_text {
+        padding: 30px;
+    }
+
+    .service_contact .service_contact_img {
+        height: 840px;
+    }
+
+    .service_video h2 {
+        font-size: 54px;
+    }
+
+    .service_text .sercice_img {
+        height: 225px;
+    }
+
+    .service_text .section_heading_2 h2 {
+        font-size: 20px;
+    }
+
+    .service_text ul li {
+        font-size: 13px;
+        margin-top: 9px;
+    }
+
+    .hotel_detels_slider_item {
+        height: 465px;
+    }
+
+    .Hotel_Amenitie ul li {
+        width: 47.5%;
+    }
+
+    .about_detels_sidebar_book form ul li .text {
+        width: 62%;
+    }
+
+    .about_detels_sidebar_author {
+        height: 495px;
+    }
+
+    .single_room_cart .img {
+        height: 240px;
+    }
+
+    .package_details .sidebar_contact {
+        height: 530px;
+    }
+
+    .about_detels_sidebar {
+        padding: 0 !important;
+    }
+
+    .product_detels_main_img {
+        height: 400px;
+    }
+
+    .car_slider_small_img {
+        height: 75px;
+    }
+
+    .package_details .about_detels_sidebar .nav-link,
+    .room_detels .about_detels_sidebar .nav-link,
+    .room_detels .about_detels_sidebar .nav-link {
+        padding: 15px 76px;
+    }
+
+    .about_detels_sidebar .nav-link {
+        padding: 15px 75px;
+    }
+
+    .filter_item .img .athor_img {
+        top: 190px;
+    }
+
+    .agent_profile .about_detels_sidebar_author {
+        height: 370px;
+    }
+
+    .details_snapshot .text {
+        width: 76%;
+    }
+
+    .single_packages_item .img {
+        height: 405px;
+    }
+
+
+
+
+}
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.99px) {
+    .main_menu .container {
+        padding: 20px 0px;
+    }
+
+    .main_menu .navbar-nav {
+        line-height: 45px;
+        background: var(--colorWhite);
+        border-top: 1px solid #ddd;
+        margin-top: 19px;
+        padding-top: 10px;
+    }
+
+    .main_menu .right_menu {
+        background: var(--colorWhite);
+        padding-bottom: 20px;
+        padding-left: 19px;
+        border-top: 1px solid #ddd;
+        margin-top: -1px;
+        padding-top: 15px;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .main_menu .submenu {
+        left: 19px;
+        max-height: 250px;
+    }
+
+    .main_menu .navbar-brand {
+        margin: 0 19px;
+    }
+
+    .banner .banner_text span,
+    .banner .banner_text h1 {
+        font-size: 62px;
+        max-width: 100%;
+        line-height: 75px;
+        margin-bottom: 50px;
+        display: block;
+    }
+
+    .banner .banner_text span,
+    .banner .banner_text span b {
+        font-size: 62px;
+    }
+
+    .banner_serch .nav-pills {
+        gap: 15px;
+        padding: 10px 20px;
+        font-size: 13px;
+        margin-top: 10px;
+    }
+
+    .banner_serch form ul li {
+        width: 100%;
+    }
+
+    .banner_serch form ul {
+        align-items: center;
+        gap: 10px;
+        width: 100%;
+    }
+
+    .banner_serch form button {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .banner_serch form button i {
+        display: inline-block;
+        margin-top: 0;
+        margin-right: 10px;
+        width: initial;
+    }
+
+    .banner_serch form {
+        padding: 20px;
+    }
+
+    .banner .banner_text {
+        margin-top: 30px;
+    }
+
+    .section_heading h2,
+    .section_heading h2 span {
+        font-size: 30px;
+    }
+
+    .section_heading h2::after {
+        height: 38px;
+        top: -35px;
+        right: -20px;
+    }
+
+    .ofer .ofer_item .text {
+        padding: 30px;
+    }
+
+    .ofer .ofer_item .text h3 {
+        width: 96%;
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .ofer .ofer_item {
+        margin-bottom: 20px;
+    }
+
+    .filter .nav-tabs {
+        padding: 6px 20px;
+        gap: 15px;
+        margin-left: 0;
+    }
+
+    .filter_item .img {
+        height: 265px;
+    }
+
+    .testimonial_item .description {
+        color: var(--paraColor);
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 30px;
+    }
+
+    .section_heading h2,
+    .section_heading h2 span {
+        margin-bottom: 30px;
+        font-size: 30px;
+    }
+
+    .flight_banner {
+        height: 510px;
+        margin-bottom: 25px;
+    }
+
+    .popular_flight_item_text .title {
+        font-size: 16px;
+    }
+
+    .popular_flight_item {
+        margin-left: 14px;
+    }
+
+    .counter_area li {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .download .download_text h1,
+    .download .download_text h1 span {
+        font-size: 25px;
+        font-weight: 500;
+        line-height: 36px;
+    }
+
+    .download_img {
+        margin-top: -130px;
+        width: auto;
+        height: auto;
+    }
+
+    .blog .blog_item .blog_img {
+        height: auto;
+    }
+
+
+    .banner {
+        height: auto;
+        padding-bottom: 120px;
+    }
+
+
+    .banner .banner_text {
+        margin-top: 120px;
+    }
+
+
+    .testimonial_content {
+        padding: 30px;
+    }
+
+    .footer_contact .footer_contact_contant {
+        padding: 25px;
+    }
+
+    .footer_contact .footer_contact_contant .text {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .footer_contact .footer_contact_contant form {
+        width: 100%;
+        border: none;
+    }
+
+    .footer_contact .footer_contact_contant form input {
+        border: 1px solid #eeeeee38;
+        border-radius: 0;
+        margin-bottom: 10px;
+    }
+
+
+    .footer_link ul li a {
+        margin-top: 15px;
+    }
+
+    .footer_link {
+        margin-top: 30px;
+        padding-left: 25px;
+    }
+
+    .footer_logo {
+        padding-left: 25px;
+        margin-top: 30px;
+    }
+
+    .footer_logo ul {
+        gap: 8px;
+    }
+
+    .footer_contact .footer_contact_contant form button {
+        position: initial;
+        width: 100%;
+        transform: translate(0);
+    }
+
+
+    footer .footer_banner {
+        display: none;
+    }
+
+    .footer_copyright_text .img {
+        margin-top: 15px;
+    }
+
+    /* home page end */
+
+
+    /* about page start */
+
+    .breadcrumb_overlay {
+        padding: 140px 0px 65px 0px;
+    }
+
+    .breadcrumb_text h1 {
+        font-size: 34px;
+    }
+
+    .about_choose .about_choose_text h2 {
+        font-size: 32px;
+    }
+
+    .about_choose .about_choose_text {
+        padding-right: 0;
+    }
+
+    .about_choose .about_choose_text ul li .text {
+        width: 81%;
+    }
+
+    .about_choose .about_choose_img {
+        height: 525px;
+        margin-top: 30px;
+    }
+
+    .ofer .ofer_item .img {
+        height: 300px;
+    }
+
+    .service_video_img .circle_box,
+    .about_video_text .circle_box {
+        display: none;
+    }
+
+    .about_video_text h1 {
+        font-size: 46px;
+        max-width: 100%;
+    }
+
+    .about_video_text {
+        text-align: center;
+    }
+
+    .about_video_text::after {
+        display: none;
+    }
+
+    .section_heading_2 h2 {
+        font-size: 32px;
+    }
+
+    .team .single_team .img {
+        height: 650px;
+    }
+
+    /* about page end */
+    /* agent start */
+    .agent_profile .about_detels_sidebar_author {
+        height: 270px;
+    }
+
+    .agent_profile_text {
+        margin-left: 0;
+    }
+
+    .agent_profile_text h2 {
+        font-size: 18px;
+
+    }
+
+    .agent_profile_text p {
+        line-height: normal;
+    }
+
+    .agent_profile_text .text {
+        width: 50%;
+    }
+
+    .agent_profile_text .info {
+        gap: 15px;
+        margin-top: 20px;
+    }
+
+    .agent_profile_text .link {
+        margin-top: 20px;
+    }
+
+    .agent_btn {
+        margin-bottom: 100px;
+    }
+
+    p,
+    span {
+        font-size: 13px;
+    }
+
+    .review_area_btn {
+        padding-top: 30px;
+    }
+
+    /* agent end */
+
+    .hotel_list_img {
+        width: 100%;
+        height: 290px;
+        padding: 10px 10px 10px 10px;
+    }
+
+    .hotel_list_text {
+        width: 100%;
+        padding: 0px 10px 10px 30px;
+    }
+
+    /* contact page start */
+    .contact_form h3 {
+        font-size: 40px;
+    }
+
+    .contact_form form {
+        padding: 30px;
+    }
+
+    .contact_img {
+        display: none;
+    }
+
+    .contact_info {
+        text-align: center;
+    }
+
+    .contact_info span {
+        margin: 0 auto;
+    }
+
+    .blog_detels_banner_text {
+        padding: 30px;
+    }
+
+    .blog_detels_banner_img {
+        height: 385px;
+    }
+
+    .blog_detels_text .detels_small_img .img {
+        height: 340px;
+        margin-bottom: 30px;
+    }
+
+    li.pev {
+        width: 50%;
+    }
+
+    .next_pev_button li.next {
+        width: 50%;
+    }
+
+    .faq_page .section_heading_2 h2 {
+        max-width: 100%;
+    }
+
+    /* service page start */
+    .service_text .section_heading_2 h2 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .service_text .sercice_img {
+        height: 345px;
+        margin-top: 30px;
+    }
+
+    .service_earea .service_banner {
+        margin-top: 0;
+        height: 730px;
+    }
+
+    .service_earea .service_item {
+        padding: 50px 10px 30px 20px;
+    }
+
+    .service_video h2 {
+        font-size: 40px;
+    }
+
+    .servive_video_banner {
+        height: auto;
+    }
+
+    .service_contact_text h2 {
+        font-size: 30px;
+    }
+
+    .service_contact_text {
+        padding-left: 20px;
+        padding-top: 30px;
+    }
+
+    .service_contact .service_contact_img {
+        height: 625px;
+        margin-top: 20px;
+    }
+
+    .hotel_detels_slider_item {
+        height: 340px;
+    }
+
+    .Hotel_Amenitie ul li {
+        width: 48%;
+    }
+
+    .about_detels_sidebar_author {
+        height: 560px;
+    }
+
+    .single_room_cart .img {
+        height: 170px;
+    }
+
+    .package_details .hotel_detels_slider_item {
+        height: 230px;
+    }
+
+    .package_details .sidebar_contact {
+        background: #EFF5FC;
+        border: none;
+        position: relative;
+        height: 670px;
+    }
+
+    /* car details start  */
+    .product_detels_main_img {
+        height: 300px;
+    }
+
+    .car_slider_small_img {
+        height: 55px;
+    }
+
+    .car_avelity .filter_item .img {
+        height: 120px;
+    }
+
+    .boat_avelity .text .icon li {
+        width: 30px;
+        height: 30px;
+        border: 1px solid rgba(4, 6, 24, 0.10);
+        padding: 6px;
+    }
+
+    .filter_item .text {
+        padding: 10px 10px 35px 15px;
+    }
+
+    .car_avelity .filter_item .img .athor_img {
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+        overflow: hidden;
+        position: absolute;
+        top: 105px;
+        right: 20px;
+    }
+
+    .filter_item .img .athor_img {
+        top: 290px;
+    }
+
+    .package_details .about_detels_sidebar .nav-link,
+    .room_detels .about_detels_sidebar .nav-link,
+    .about_detels_sidebar .nav-link {
+        padding: 20px 90px;
+    }
+
+    .details_snapshot .text {
+        width: 68%;
+    }
+
+    .single_packages_item .img {
+        height: 620px;
+    }
+
+
+
+
+
+}
+
+
+
+
+
+@media (max-width: 575.99px) {
+    .main_menu .container {
+        padding: 20px 0px;
+    }
+
+    .main_menu .navbar-nav {
+        line-height: 45px;
+        background: var(--colorWhite);
+        border-top: 1px solid #ddd;
+        margin-top: 19px;
+        padding-top: 10px;
+    }
+
+    .main_menu .right_menu {
+        background: var(--colorWhite);
+        padding-bottom: 20px;
+        padding-left: 19px;
+        border-top: 1px solid #ddd;
+        margin-top: -1px;
+        padding-top: 15px;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .main_menu .submenu {
+        left: 19px;
+        max-height: 250px;
+    }
+
+    .main_menu .navbar-brand {
+        margin: 0 19px;
+    }
+
+    .banner .banner_text span,
+    .banner .banner_text h1 {
+        font-size: 37px;
+        max-width: 100%;
+        line-height: 40px;
+        margin-bottom: 40px;
+        display: block;
+    }
+
+    .banner .banner_text span,
+    .banner .banner_text span b {
+        font-size: 37px;
+    }
+
+    .banner_serch .nav-pills {
+        gap: 15px;
+        padding: 10px 20px;
+        font-size: 13px;
+        margin-top: 10px;
+    }
+
+    .banner_serch form ul li {
+        width: 100%;
+    }
+
+    .banner_serch form ul {
+        align-items: center;
+        gap: 10px;
+        width: 100%;
+    }
+
+    .banner_serch form button {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .banner_serch form button i {
+        display: inline-block;
+        margin-top: 0;
+        margin-right: 10px;
+        width: initial;
+    }
+
+    .banner_serch form {
+        padding: 20px;
+    }
+
+    .banner .banner_text {
+        margin-top: 30px;
+    }
+
+    .section_heading h2,
+    .section_heading h2 span {
+        font-size: 30px;
+    }
+
+    .section_heading h2::after {
+        height: 38px;
+        top: -35px;
+        right: -20px;
+    }
+
+    .ofer .ofer_item .text {
+        padding: 30px;
+    }
+
+    .ofer .ofer_item .text h3 {
+        width: 96%;
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .ofer .ofer_item {
+        margin-bottom: 20px;
+    }
+
+    .filter .nav-tabs {
+        padding: 6px 20px;
+        gap: 15px;
+        margin-left: 0;
+    }
+
+    .filter_item .img {
+        height: 280px;
+    }
+
+    .filter_item .img .athor_img {
+        top: 205px;
+    }
+
+    .testimonial_item .description {
+        color: var(--paraColor);
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 30px;
+    }
+
+    .flight_banner {
+        height: auto;
+        margin-bottom: 25px;
+
+    }
+
+    .popular_flight_item_text .title {
+        font-size: 16px;
+    }
+
+    .popular_flight_item {
+        margin-left: 14px;
+    }
+
+    .counter_area li {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .download .download_text h1,
+    .download .download_text h1 span {
+        font-size: 25px;
+        font-weight: 500;
+        line-height: 36px;
+    }
+
+    .download_img {
+        margin-top: -150px;
+        width: auto;
+        height: auto;
+    }
+
+    .blog .blog_item .blog_img {
+        height: auto;
+    }
+
+
+    .banner {
+        height: auto;
+        padding-bottom: 120px;
+    }
+
+
+    .banner .banner_text {
+        margin-top: 120px;
+    }
+
+
+    .testimonial_content {
+        padding: 30px;
+    }
+
+    .footer_contact .footer_contact_contant {
+        padding: 25px;
+    }
+
+    .footer_contact .footer_contact_contant .text {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .footer_contact .footer_contact_contant form {
+        width: 100%;
+        border: none;
+    }
+
+    .footer_contact .footer_contact_contant form input {
+        border: 1px solid #eeeeee38;
+        border-radius: 0;
+        margin-bottom: 10px;
+    }
+
+
+    .footer_link ul li a {
+        margin-top: 15px;
+    }
+
+    .footer_link {
+        padding-left: 25px;
+    }
+
+    .footer_logo {
+        padding-left: 25px;
+        margin-top: 30px;
+    }
+
+    .footer_logo ul {
+        gap: 8px;
+    }
+
+    .footer_contact .footer_contact_contant form button {
+        position: initial;
+        width: 100%;
+        transform: translate(0);
+    }
+
+
+    footer .footer_banner {
+        display: none;
+    }
+
+    .footer_copyright_text .img {
+        margin-top: 15px;
+    }
+
+    /* home page end */
+
+    /* about page start */
+
+    .breadcrumb_overlay {
+        padding: 140px 0px 65px 0px;
+    }
+
+    .breadcrumb_text h1 {
+        font-size: 34px;
+    }
+
+    .about_choose .about_choose_text h2 {
+        font-size: 24px;
+        line-height: 35px;
+    }
+
+    .about_choose .about_choose_text {
+        padding-right: 0;
+    }
+
+    .about_choose .about_choose_text ul li .text {
+        width: 100%;
+    }
+
+    .about_choose .about_choose_img {
+        height: auto;
+        margin-top: 30px;
+    }
+
+    .ofer .ofer_item .img {
+        height: 260px;
+    }
+
+    .service_video_img .circle_box,
+    .about_video_text .circle_box {
+        display: none;
+    }
+
+    .about_video_text h1 {
+        font-size: 35px;
+        max-width: 100%;
+    }
+
+    .about_video_text {
+        text-align: center;
+    }
+
+    .about_video_text::after {
+        display: none;
+    }
+
+    .section_heading_2 h2 {
+        font-size: 24px;
+    }
+
+    .team .single_team .img {
+        height: auto;
+    }
+
+    .accordion-item {
+        margin-top: 10px;
+    }
+
+    .accordion-button {
+        font-size: 13px;
+    }
+
+    .accordion-body p {
+        font-size: 13px;
+        font-weight: 400;
+    }
+
+    .accordion-body {
+        padding: 20px;
+    }
+
+    /* about page end */
+
+
+    /* agent start */
+
+    .agent_profile_img {
+        height: auto;
+    }
+
+    .agent_profile_text {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+
+    .agent_profile_text .text {
+        width: 65%;
+    }
+
+    .agent_btn {
+        margin-bottom: 100px;
+    }
+
+    p,
+    span {
+        font-size: 13px;
+    }
+
+    .review_area_btn {
+        padding-top: 30px;
+    }
+
+    /* agent end */
+
+    /* hotel gdid view start */
+    .item_header .nice-select {
+        width: 200px;
+    }
+
+    .hotel_list_img {
+        width: auto;
+        height: auto;
+    }
+
+    .hotel_list_text {
+        width: auto;
+        padding: 20px 10px;
+    }
+
+    /* contact page start */
+    .contact_form h3 {
+        font-size: 28px;
+    }
+
+    .contact_form form {
+        padding: 25px;
+    }
+
+    .contact_img {
+        display: none;
+    }
+
+    .contact_info {
+        padding: 30px;
+    }
+
+    /* blog detels start */
+    .blog_detels_banner_text {
+        padding: 20px;
+    }
+
+    .blog_detels_banner_text h1 {
+        font-size: 20px;
+        line-height: normal;
+    }
+
+    .blog_detels_banner_img {
+        height: auto;
+    }
+
+    .blog_detels_text .quot {
+        padding: 20px 50px 20px 10px;
+        font-size: 13px;
+        line-height: normal;
+    }
+
+    .blog_detels_text .quot::after {
+        width: 46px;
+        height: 31px;
+        top: 50%;
+        right: 5px;
+    }
+
+    .blog_detels_text h2 {
+        font-size: 20px;
+        line-height: normal;
+        max-width: 100%;
+    }
+
+    .blog_detels_text .detels_small_img .img {
+        height: auto;
+        margin-bottom: 30px;
+    }
+
+    .blog_detels_text .detels_small_img {
+        margin-bottom: 30px;
+    }
+
+    .tags_socal_icon {
+        margin-top: 20px;
+    }
+
+    .next_pev_button {
+        padding: 25px 10px 22px 10px;
+        margin-top: 30px;
+    }
+
+    .next_pev_button li.next {
+        text-align: right;
+        margin-left: auto;
+        padding-right: 20px;
+        border-top: 1px solid #343a4024;
+        padding-top: 20px;
+        margin-top: 20px;
+        width: 100%;
+    }
+
+    .review_area form .input {
+        margin-bottom: 20px;
+        margin-top: 0px;
+    }
+
+    .review_area form p {
+        margin: 10px 0 30px 0;
+    }
+
+    .blog_sidebar ul li .img {
+        height: auto;
+    }
+
+    .blog_sidebar ul li .text {
+        width: 61%;
+    }
+
+    /* privacy polici start */
+
+    .privacy_policy_text h3,
+    .privacy_policy_text h4 {
+        font-size: 20px;
+    }
+
+    .privacy_policy_text ul li,
+    .privacy_policy_text ol li {
+        font-size: 14px;
+    }
+
+    .privacy_policy_text ul li::after,
+    .privacy_policy_text ol li::after {
+        top: 9px;
+    }
+
+    .faq_page .section_heading_2 h2 {
+        max-width: 100%;
+    }
+
+    /* service page start */
+    .service_text .section_heading_2 h2 {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .service_text .sercice_img {
+        height: auto;
+        margin-top: 30px;
+    }
+
+    .service_earea .service_banner {
+        margin-top: 0;
+        height: auto;
+    }
+
+    .service_video h2 {
+        font-size: 25px;
+    }
+
+    .servive_video_banner {
+        height: auto;
+    }
+
+    .service_contact_text h2 {
+        font-size: 30px;
+    }
+
+    .service_contact_text {
+        padding-left: 20px;
+        padding-top: 30px;
+    }
+
+    .service_contact .service_contact_img {
+        height: auto;
+        margin-top: 20px;
+    }
+
+    /* hotel details start  */
+    .hotel_detels_slider_item {
+        height: auto;
+    }
+
+    .Hotel_Amenitie ul li {
+        width: 100%;
+    }
+
+    .about_detels_sidebar .nav-link {
+        padding: 15px 50px;
+    }
+
+    .about_detels_sidebar_author {
+        height: auto;
+    }
+
+    .single_room_cart .img {
+        height: auto;
+    }
+
+    .room_avelity .section_heading_2 {
+        margin-bottom: 30px !important;
+    }
+
+    .filter_item .img {
+        height: auto;
+    }
+
+    .package_details .about_detels_sidebar .nav-link {
+        padding: 15px 50px;
+    }
+
+    .sidebar_contact {
+        height: auto;
+    }
+
+    .product_detels_main_img {
+        height: auto;
+    }
+
+    .car_slider_small_img {
+        height: auto;
+    }
+
+    .room_detels .about_detels_sidebar .nav-link {
+        padding: 15px 50px;
+    }
+
+    .popular_flight_item .img {
+        width: auto;
+        height: auto;
+    }
+
+    .details_snapshot .text {
+        width: 100%;
+    }
+
+    .single_packages_item .img {
+        height: auto;
+    }
+
+
+
+
+
+
+
+
+
+}
